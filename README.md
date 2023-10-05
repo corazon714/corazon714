@@ -21,5 +21,3 @@ I'm a passionate developer from Istanbul, Turkey. Welcome to my GitHub profile!
 ## My GitHub Stats
 
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Corazon714&show_icons=true&hide_border=true)
-
-[![Mert Kaya's Dev Card](https://api.daily.dev/devcards/9a27c62bba044ddca4b7a278a6f82380.png?r=don)](https://app.daily.dev/fruitslicer84)

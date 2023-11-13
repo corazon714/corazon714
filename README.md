@@ -12,9 +12,3 @@ I'm a passionate software developer based in Istanbul, Turkey. I specialize in f
 
 - Email: [mert.kaya.98@protonmail.com](mailto:mert.kaya.98@protonmail.com)
 - LinkedIn: [Corazon714](https://www.linkedin.com/in/corazon714)
-
-## My GitHub Stats
-
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Corazon714&show_icons=true&hide_border=true)
-
----

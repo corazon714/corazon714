@@ -6,7 +6,6 @@ I'm a passionate software developer based in Istanbul, Turkey. I specialize in f
 
 - 👨‍💻 Frontend Developer with Nuxt.js and Tailwind CSS.
 - 🎮 Game Developer with Godot Engine and Unreal Engine (Hobbyist).
-- 🌍 Based in Istanbul, Turkey.
 
 ### 📫 Contact Me
 
